@@ -1,0 +1,17 @@
+﻿name="Kodi 18.6 Leia"
+url="https://1drv.ms/u/s!Apc3V5hi2XdTkCUy9G1h52HWOgno?e=UEP4vy"
+img="https://raw.githubusercontent.com/tecnomaster/tecnokodiwizard/master/wizard/icon.png"
+fanart="https://raw.githubusercontent.com/tecnomaster/tecnokodiwizard/master/wizard/fanart.jpg"
+description="TecnoKodi Wizard"
+
+
+name="----- [COLOR red]LIMPIAR KODI PARA ACTUALIZAR[/COLOR] ------"
+url="https://1drv.ms/u/s!Apc3V5hi2XdTkCh0d8tjLaDowexD?e=7wTL3k" 
+img="https://raw.githubusercontent.com/tecnomaster/tecnokodiwizard/master/freshstart/freshstart.png"
+fanart="https://raw.githubusercontent.com/tecnomaster/tecnokodiwizard/master/freshstart/fanart-kodi.jpg"
+description="Usa el Freshtart para actualizar la Build."
+
+
+
+
+
