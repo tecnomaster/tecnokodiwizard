@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="resource.michecker" name="MICHECKER" version="1.0" provider-name="stva.ml">
+<addon id="resource.michecker" name="Mi Checker" version="1.0" provider-name="NombreDelCreador">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -8,7 +8,7 @@
   </extension>
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Comprobador version Build y Parches de MiWizard</summary>
+    <summary lang="en">Comprobador versión Build y Parches de Mi Wizard</summary>
     <description lang="en"></description>
 	<disclaimer lang="en"></disclaimer>
     <platform>all</platform>

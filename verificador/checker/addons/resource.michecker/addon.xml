@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="resource.michecker" name="Mi Checker" version="1.0" provider-name="NombreDelCreador">
+<addon id="resource.michecker" name="MICHECKER" version="1.0" provider-name="NombreDelCreador">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
