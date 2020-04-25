@@ -97,16 +97,16 @@ AUTOINSTALL    = 'No'
 # Addon ID for the repository
 REPOID         = 'repository.tecnokodiwizard'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML   = 'https://raw.githubusercontent.com/tecnomaster/tecnokodiwizard/master/zips/addon.xml'
+REPOADDONXML   = ''
 # Url to folder zip is located in
-REPOZIPURL     = 'https://https://raw.githubusercontent.com/tecnomaster/tecnokodiwizard/master/repository.tecnokodiwizard/'
+REPOZIPURL     = ''
 #########################################################
 
 #########################################################
 ### Notification Window #################################
 #########################################################
 # Enable Notification screen Yes or No
-ENABLE         = 'Yes'
+ENABLE         = 'No'
 # Url to notification file
 NOTIFICATION   = 'https://raw.githubusercontent.com/tecnomaster/tecnokodiwizard/master/wizard/notify.txt'
 # Use either 'Text' or 'Image'
