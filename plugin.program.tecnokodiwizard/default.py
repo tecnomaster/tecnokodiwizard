@@ -194,7 +194,7 @@ except:
 
 def index():
     errors = int(errorChecking(count=True))
-    errorsfound = str(errors) + ' Errores(s) Encontrados' if errors > 0 else 'Sin Errores'
+    errorsfound = str(errors) + ' Error(s) Found' if errors > 0 else 'None Found'
 
     if AUTOUPDATE == 'Yes':
         wizfile = wiz.textCache(WIZARDFILE)
