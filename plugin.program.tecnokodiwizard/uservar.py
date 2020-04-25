@@ -12,8 +12,8 @@ ART            = os.path.join(PATH, 'resources', 'art')
 #########################################################
 ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
 ADDONTITLE     = '[B][COLOR dodgerblue]TecnoKodi[/COLOR][/B] Wizard'
-BUILDERNAME    = 'TecnoKodi Wizard'
-EXCLUDES       = [ADDON_ID, 'repository.tecnokodiwizard']
+BUILDERNAME    = 'TecnoKodiWiz'
+EXCLUDES       = [ADDON_ID, 'plugin.program.tecnokodiwizard']
 # Enable/Disable the text file caching with 'Yes' or 'No' and age being how often it rechecks in minutes
 CACHETEXT      = 'Yes'
 CACHEAGE       = 30
@@ -36,12 +36,6 @@ ADVANCEDFILE   = 'http://'
 #########################################################
 ### Theming Menu Items ##################################
 #########################################################
-# If you want to use locally stored icons the place them in the Resources/Art/
-# folder of the wizard then use os.path.join(ART, 'imagename.png')
-# do not place quotes around os.path.join
-# Example:  ICONMAINT     = os.path.join(ART, 'mainticon.png')
-#           ICONSETTINGS  = 'http://aftermathwizard.net/repo/wizard/settings.png'
-# Leave as http:// for default icon
 ICONBUILDS     = os.path.join(ART, 'builds.png')
 ICONMAINT      = os.path.join(ART, 'maintenance.png')
 ICONSPEED      = os.path.join(ART, 'speed.png')
@@ -76,7 +70,7 @@ THEME5         = '[COLOR '+COLOR1+']Tema Actual:[/COLOR] [COLOR '+COLOR2+']%s[/C
 
 # Message for Contact Page
 # Enable 'Contact' menu item 'Yes' hide or 'No' dont hide
-HIDECONTACT    = 'Yes'
+HIDECONTACT    = 'No'
 # You can add \n to do line breaks
 CONTACT        = 'Gracias por usar TecnoKodi Wizard.\n\nContáctenos en Github: http://www.github.com/tecnomaster/tecnokodiwizard/'
 #Images used for the contact window.  http:// for default icon and fanart
@@ -103,9 +97,9 @@ AUTOINSTALL    = 'Yes'
 # Addon ID for the repository
 REPOID         = 'repository.tecnokodiwizard'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML   = 'https://raw.githubusercontent.com/tecnomaster/tecnokodiwizard/master/zips/repository.tecnokodiwizard/addon.xml'
+REPOADDONXML   = 'https://raw.githubusercontent.com/tecnomaster/tecnokodiwizard/master/zips/addon.xml'
 # Url to folder zip is located in
-REPOZIPURL     = 'https://github.com/tecnomaster/tecnokodiwizard/blob/master/zips/repository.tecnokodiwizard/'
+REPOZIPURL     = 'https://https://raw.githubusercontent.com/tecnomaster/tecnokodiwizard/master/repository.tecnokodiwizard/'
 #########################################################
 
 #########################################################
