@@ -4,7 +4,7 @@ zip="https://github.com/tecnomaster/tecnokodiwizard/blob/master/fuente/repositor
 
 name="Full Kodi Leia 18.6 v1.0"
 version="1.0"
-url="https://danielrodriguez.info/tecnokodiwizard/tecnokodiwizard.zip"
+url="https://tslnk.com/tecnokodiwizard"
 minor=""
 gui=""
 kodi="18"
