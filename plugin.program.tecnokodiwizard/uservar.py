@@ -15,7 +15,7 @@ ADDONTITLE     = '[B][COLOR dodgerblue]TecnoKodi[/COLOR][/B] Wizard'
 BUILDERNAME    = 'TecnoKodiWiz'
 EXCLUDES       = [ADDON_ID, 'plugin.program.tecnokodiwizard']
 # Enable/Disable the text file caching with 'Yes' or 'No' and age being how often it rechecks in minutes
-CACHETEXT      = 'Yes'
+CACHETEXT      = 'No'
 CACHEAGE       = 30
 # Text File with build info in it.
 BUILDFILE      = 'https://raw.githubusercontent.com/tecnomaster/tecnokodiwizard/master/wizard/builds.txt'
@@ -70,9 +70,9 @@ THEME5         = '[COLOR '+COLOR1+']Tema Actual:[/COLOR] [COLOR '+COLOR2+']%s[/C
 
 # Message for Contact Page
 # Enable 'Contact' menu item 'Yes' hide or 'No' dont hide
-HIDECONTACT    = 'No'
+HIDECONTACT    = 'Yes'
 # You can add \n to do line breaks
-CONTACT        = 'Gracias por usar TecnoKodi Wizard.\n\nContáctenos en Github: http://www.github.com/tecnomaster/tecnokodiwizard/'
+CONTACT        = ''
 #Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON    = os.path.join(ART, 'qricon.png')
 CONTACTFANART  = 'http://'
