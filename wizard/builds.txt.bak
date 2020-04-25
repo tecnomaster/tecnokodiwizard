@@ -1,6 +1,6 @@
 id="plugin.program.tecnokodiwizard"
 version="1.1"
-zip="https://github.com/tecnomaster/tecnokodiwizard/blob/master/fuente/repository.tecnokodiwizard-1.0.zip"
+zip="https://github.com/tecnomaster/tecnokodiwizard/blob/master/fuente/repository.tecnokodiwizard-1.0.zip?raw=true"
 
 name="Full para Kodi Leia 18.6 (v 1.0)"
 version="1.0"
@@ -14,4 +14,4 @@ fanart="https://raw.githubusercontent.com/tecnomaster/tecnokodiwizard/master/wiz
 preview="http://"
 adult="no"
 info="http://"
-description="Esta es la primera distribución (Build) de TecnoKodi Wizard en su versión completa con todos los plugins más relevantes en español."
+description="Este es el primer paquete (Build) de TecnoKodi Wizard completo con todos los plugins relevantes."
