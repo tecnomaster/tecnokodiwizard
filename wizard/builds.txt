@@ -4,7 +4,7 @@ zip="https://danielrodriguez.info/tecnokodiwizard/plugin.program.tecnokodiwizard
 
 name="TecnoKodi Build"
 version="1.0"
-url="https://tslnk.com/tecnokodiwizard"
+url="https://tecnokodi.s3.amazonaws.com/tecnokodiwizard/tecnokodiwizard.zip"
 minor=""
 gui=""
 kodi="18"
