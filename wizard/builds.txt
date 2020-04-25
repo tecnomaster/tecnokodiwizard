@@ -1,6 +1,6 @@
 id="plugin.program.tecnokodiwizard"
 version="1.1"
-zip="https://github.com/tecnomaster/tecnokodiwizard/blob/master/fuente/repository.tecnokodiwizard-1.0.zip?raw=true"
+zip="https://danielrodriguez.info/tecnokodiwizard/plugin.program.tecnokodiwizard-1.1.zip"
 
 name="TecnoKodi Build"
 version="1.0"
