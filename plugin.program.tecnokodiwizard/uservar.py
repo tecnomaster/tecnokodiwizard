@@ -18,7 +18,7 @@ EXCLUDES       = [ADDON_ID, 'plugin.program.tecnokodiwizard']
 CACHETEXT      = 'No'
 CACHEAGE       = 30
 # Text File with build info in it.
-BUILDFILE      = 'https://raw.githubusercontent.com/tecnomaster/tecnokodiwizard/master/wizard/builds.txt'
+BUILDFILE      = 'https://daanielrodriguez.info/tecnokodiwizard/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK    = 0
