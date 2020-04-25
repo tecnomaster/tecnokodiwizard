@@ -2,9 +2,9 @@
 <addon id="repository.tecnokodiwizard" name="TecnoKodi Wizard official Repo" version="1.0" provider-name="TecnoKodi">
     <extension point="xbmc.addon.repository" name="TecnoKodi Wizard official Repo">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/tecnomaster/tecnokodiwizard/master/zips/repository.tecnokodiwizard/addon.xml</info>
-            <checksum>https://raw.githubusercontent.com/tecnomaster/tecnokodiwizard/master/zips/repository.tecnokodiwizard/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/tecnomaster/tecnokodiwizard/master/zips/repository.tecnokodiwizard/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/tecnomaster/tecnokodiwizard/master/zips/addon.xml</info>
+            <checksum>https://raw.githubusercontent.com/tecnomaster/tecnokodiwizard/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/tecnomaster/tecnokodiwizard/master/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
